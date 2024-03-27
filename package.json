@@ -1,0 +1,14 @@
+{
+  "name": "exercise-2to7",
+  "version": "1.0.0",
+  "description": "\"Exercises 2 to 7 out of 45 exercises : \"",
+  "main": "program-2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
